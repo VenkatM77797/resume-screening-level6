@@ -1,0 +1,126 @@
+Job Description: Junior Software Engineer / Full-Stack Developer
+Position Overview
+We are seeking a motivated Junior Software Engineer with strong academic background and practical experience in software development, mobile applications, and web technologies. The ideal candidate will have hands-on experience with Android development, web applications, and working with APIs, along with demonstrated leadership skills and community involvement.
+
+Key Responsibilities
+Develop and maintain Android and web applications using modern frameworks
+
+Implement RESTful APIs and integrate third-party services (Yelp, Yahoo APIs, Microsoft Oxford OCR)
+
+Design and build scalable software solutions following software design patterns
+
+Collaborate with cross-functional teams on research and development projects
+
+Participate in the full software development lifecycle from conception to deployment
+
+Contribute to projects involving computer vision, sensor technology, and crowdsourcing platforms
+
+Develop natural language processing tools and text/speech processing capabilities
+
+Create data visualization features (charts, graphs) for user-facing applications
+
+Manage version control using Git and oversee repository management
+
+Technical Requirements
+Required Skills:
+Programming Languages: Java, Python, C, HTML5, CSS
+
+Frameworks & Tools: Django, Android SDK, Git, LaTeX
+
+Core Concepts: Data Structures, Algorithms, Software Design Patterns
+
+Systems Knowledge: Parallel and Sequential Computing, Computer Systems Architecture
+
+Web Development: Full-stack web application development
+
+Preferred Experience:
+Mobile app development (Android)
+
+Web application frameworks (Django)
+
+API integration (Yelp, Yahoo, Microsoft Oxford)
+
+Natural Language Processing (NLP)
+
+Optical Character Recognition (OCR)
+
+Bluetooth-based communication systems
+
+Crowdsourcing platform development
+
+Computer vision and sensor integration
+
+Education & Qualifications
+Bachelor's degree in Computer Science or related field (expected completion 2018)
+
+Coursework in: Parallel/Sequential Data Structures & Algorithms, Computer Systems, Software Construction, Web Application Development, Functional & Imperative Programming
+
+Soft Skills & Attributes
+Strong leadership capabilities (team lead experience)
+
+Excellent communication and mentoring skills
+
+Experience in social media management and community engagement
+
+Ability to work in research/academic environments
+
+Commitment to diversity, equity, and inclusion (DEI)
+
+Volunteer experience and community involvement
+
+Team collaboration and project management
+
+Bonus Qualifications
+Experience with gender-based violence prevention technology
+
+Financial/expense management application development
+
+Accessibility-focused development (tools for visually impaired)
+
+Mentoring and teaching experience
+
+Social impact project involvement
+
+Company Values Alignment
+Commitment to creating technology for social good
+
+Interest in accessibility and assistive technologies
+
+Support for women in technology initiatives
+
+Community engagement and volunteerism
+
+Ethical technology development
+
+Location & Type
+Location: On-site/Hybrid (Pittsburgh, PA preferred)
+
+Position Type: Full-time/Internship
+
+Start Date: Immediate or upon graduation (May 2018)
+
+Ideal Roles for This Candidate:
+Junior Android Developer
+
+Full-Stack Developer
+
+Research Assistant (HCI/Computer Vision)
+
+Software Engineer (Social Impact Tech)
+
+Web Application Developer
+
+API Integration Specialist
+
+Industries That Would Benefit:
+Tech for Good / Social Impact Startups
+
+Accessibility Technology companies
+
+Financial Technology (expense management apps)
+
+Crowdsourcing Platforms
+
+University Research Labs (HCI, Computer Vision)
+
+Women-led Tech Companies

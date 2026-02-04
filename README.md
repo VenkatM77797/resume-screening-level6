@@ -1,4 +1,4 @@
-# Simple Resume Screening ATS (Level 6)
+<img width="2537" height="1393" alt="image" src="https://github.com/user-attachments/assets/9c767113-7979-4b0c-8678-90c024ab1795" /># Simple Resume Screening ATS (Level 6)
 
 This project is a simple Applicant Tracking System (ATS) built using Python and Streamlit.
 
@@ -53,6 +53,8 @@ pip install -r requirements.txt
 2. Run the Streamlit App
 
 streamlit run resume_screening_level6.py
+OR
+python -m streamlit run resume_screening_level6.py
 
 --------------------------------------------------
 
@@ -124,6 +126,7 @@ This project helps automate the resume screening process by providing:
 
 Built by Venkat Mandarapu  
 Resume Screening ATS Project (Level 6)
+
 
 
 

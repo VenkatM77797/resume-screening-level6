@@ -1,4 +1,4 @@
-<img width="2537" height="1393" alt="image" src="https://github.com/user-attachments/assets/9c767113-7979-4b0c-8678-90c024ab1795" /># Simple Resume Screening ATS (Level 6)
+# Applicant Tracking System (ATS)
 
 This project is a simple Applicant Tracking System (ATS) built using Python and Streamlit.
 
@@ -24,11 +24,8 @@ The resumes are ranked and classified into ELIGIBLE, REVIEW, or REJECT categorie
 --------------------------------------------------
 
 ## Tech Stack
-
-- Python
-- Streamlit
-- Pandas
-- PyPDF2
+-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PyPDF2](https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 --------------------------------------------------
 
@@ -42,26 +39,28 @@ resume-screening-level6/
 
 --------------------------------------------------
 
+<img width="2537" height="1393" alt="image" src="https://github.com/user-attachments/assets/9c767113-7979-4b0c-8678-90c024ab1795" /># Simple Resume Screening ATS (Level 6)
+
 ## How to Run
 
 1. Install dependencies
-
+``` bash
 pip install -r requirements.txt
-
+``` 
 --------------------------------------------------
 
 2. Run the Streamlit App
-
+``` bash
 streamlit run resume_screening_level6.py
 OR
 python -m streamlit run resume_screening_level6.py
-
+```
 --------------------------------------------------
 
 3. Open in Browser
-
+``` bash
 http://localhost:8501
-
+``` 
 --------------------------------------------------
 
 ## How It Works
@@ -124,8 +123,7 @@ This project helps automate the resume screening process by providing:
 
 ## Author
 
-Built by Venkat Mandarapu  
-Resume Screening ATS Project (Level 6)
+Venkat Mandarapu  
 
 
 

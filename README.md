@@ -5,7 +5,7 @@ This project is a simple Applicant Tracking System (ATS) built using Python and 
 It allows recruiters or hiring managers to paste a Job Description (JD), upload resume PDFs, and automatically score candidates based on JD match percentage.
 
 The resumes are ranked and classified into ELIGIBLE, REVIEW, or REJECT categories.
-efafacdfd
+efafacdfddcv
 --------------------------------------------------
 
 ## Features

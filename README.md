@@ -1,5 +1,5 @@
 # Applicant Tracking System (ATS)
-idneaiscnjknecnjj
+idneaiscnjknec
 This project is a simple Applicant Tracking System (ATS) built using Python and Streamlit.
 
 It allows recruiters or hiring managers to paste a Job Description (JD), upload resume PDFs, and automatically score candidates based on JD match percentage.

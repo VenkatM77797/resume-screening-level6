@@ -7,7 +7,7 @@ It allows recruiters or hiring managers to paste a Job Description (JD), upload 
 The resumes are ranked and classified into ELIGIBLE, REVIEW, or REJECT categories.
 
 --------------------------------------------------
-ijiibibccdcscsdcascacsacnsakc
+ijiibibccdcscsdcascacsakc
 ## Features
 
 - Paste Job Description text
